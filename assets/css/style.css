@@ -61,7 +61,7 @@ header .logo {
 
 header .icon {
     margin-right: 4rem;
-    image-orientation: url('./resources/images/Winery.jpg') no-repeat 100% 0;
+    image-orientation: url('./assets/images/Winery.jpg') no-repeat 100% 0;
 }
 
 /* Container */
@@ -113,7 +113,7 @@ header .icon {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url('./resources/images/Valley Wine Banner 2.jpg');
+    background-image: url('./assets/images/Valley Wine Banner 2.jpg');
     background-position: bottom;
     background-size: cover;
     width: 1500px;
